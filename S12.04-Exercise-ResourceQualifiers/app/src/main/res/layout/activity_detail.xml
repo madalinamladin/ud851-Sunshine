@@ -14,8 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<!-- TODO (3) Create the version of activity_detail that will be used in landscape mode -->
+    
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   - This layout displays the complete details of a given day's weather, including the date, a    -
